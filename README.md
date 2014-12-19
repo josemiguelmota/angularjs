@@ -1,4 +1,4 @@
-Elementos de AngualarJS
+Elementos de AngularJS
 ========================
 
 Introducción
